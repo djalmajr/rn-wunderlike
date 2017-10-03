@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "rn-wunderlike",
+    "description": "An empty new project",
+    "slug": "rn-wunderlike",
+    "privacy": "public",
+    "sdkVersion": "21.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./src/assets/icons/app-icon.png",
+    "loading": {
+      "backgroundImage": "./src/assets/images/bg.jpg",
+      "icon": "./src/assets/icons/loading-icon.png",
+      "hideExponentText": true
+    },
+    "packagerOpts": {
+      "assetExts": ["ttf", "mp4"]
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
